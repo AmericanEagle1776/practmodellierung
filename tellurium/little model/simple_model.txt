@@ -1,0 +1,9 @@
+# Reactions
+R1: A -> B; k1 * A;
+
+#Initial Values
+A = 10;
+B = 0;
+
+#Parameters
+k1 = 0.01;
